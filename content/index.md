@@ -1,0 +1,98 @@
+---
+title: Introduction to Data Analytics
+date: September 3, 2025
+status: Child
+slug: /
+tags:
+  - Data Analysis
+  - Statistics
+  - Excel
+---
+
+## Overview
+
+This document introduces the fundamentals of data analytics, covering its importance, components, and applications across various fields such as finance, HR, marketing, and sales. The content is designed for an Excel-based data analytics course, progressing from basic to advanced concepts, with opportunities for question-and-answer sessions.
+
+| Module | Title (শিরোনাম)                                                                                             | Duration (সময়কাল) | Date & Time (সময়)         | Watch Link |
+| ------ | ----------------------------------------------------------------------------------------------------------- | ----------------- | ------------------------- | ---------- |
+| 1      | Orientation Class                                                                                           | ১ ঘণ্টা ৫১ মিনিট  | মঙ্গল ২৯শে জুলাই রাত ৯:০০ | দেখুন      |
+| 1      | Intro to Data Analysis, Intro to Excel                                                                      | ২ ঘণ্টা ২০ মিনিট  | বৃহ ৩১শে জুলাই রাত ৯:০০   | দেখুন      |
+| 1      | Data Structure                                                                                              | ৩ ঘণ্টা ১৪ মিনিট  | মঙ্গল ৫ই আগস্ট রাত ৯:০০   | দেখুন      |
+| 2      | Logical Functions, FILTER, IF(), Using IF with AND/OR                                                       | ৪ ঘণ্টা ৩৬ মিনিট  | বৃহ ৭ই আগস্ট রাত ৯:০০     | দেখুন      |
+| 2      | VLOOKUP, SUMIF, COUNTIF, SUMIFS, INDEX & MATCH, MINIFS, MAXIFS, AVERAGEIFS                                  | ২ ঘণ্টা ৪৯ মিনিট  | বৃহ ১৪ই আগস্ট রাত ৯:০০    | দেখুন      |
+| 3      | Data mapping for PivotTable, Various report layout, Customizing subtotal & category, Changing data source   | ২ ঘণ্টা ৩০ মিনিট  | মঙ্গল ২৬শে আগস্ট রাত ৯:০০ | দেখুন      |
+| 3      | What-if Analysis, Inserting a calculated field and item, Grouping/ungrouping, Sorting, Slicer in PivotTable | ২ ঘণ্টা ৫৫ মিনিট  | বৃহ ২৮শে আগস্ট রাত ৯:০০   | দেখুন      |
+| 4      | Understanding table structure, Understanding various relationships, Understanding primary & foreign key     | ১ ঘণ্টা ২৬ মিনিট  | মঙ্গল ২রা সেপ্ট রাত ৯:০০  | দেখুন      |
+| 4      | Using Measure in PowerPivot, Preparing dashboard using PowerPivot, Using few DAX functions in PowerPivot    | ১ ঘণ্টা ২৬ মিনিট  | মঙ্গল ১৬ই সেপ্ট রাত ৯:০০  | দেখুন      |
+| 5      | What Is Power Query, PowerQuery, Understanding table structure                                              | ২ ঘণ্টা ৬ মিনিট   | বৃহ ১৮ই সেপ্ট রাত ৯:০০    | দেখুন      |
+| 5      | Creating data model, Exploring PowerPivot                                                                   | ২ ঘণ্টা ১৪ মিনিট  | মঙ্গল ২৩শে সেপ্ট রাত ৯:০০ | দেখুন      |
+| 6      | Using Power Query, Power Pivot, Web Scrapping data, DAX                                                     | ১ ঘণ্টা ৫১ মিনিট  | বৃহ ২৫শে সেপ্ট রাত ৯:০০   | দেখুন      |
+| 6      | Using Power Query, Power Pivot, Web Scrapping data, DAX                                                     | ১ ঘণ্টা ৫২ মিনিট  | রবি ১২ই অক্টো রাত ৯:০০    | দেখুন      |
+
+## Course Structure
+
+- **Target Audience**: Suitable for all, including professionals in finance, HR, marketing, and sales.
+- **Learning Approach**:
+  - Covers basic to advanced Excel techniques.
+  - Connects data analytics to practical, real-world applications.
+  - Includes interactive question-answering time.
+- **Key Note**: Distractions, such as mobile phone notifications, can disrupt focus for up to 23 minutes, based on data studies.
+
+## Understanding Data
+
+### What is Data?
+
+- **Raw Data**: Any recorded activity, such as user interactions or transactions, constitutes raw data.
+- **Data Analysis**: The process of organizing and interpreting raw data to generate meaningful insights.
+
+### Components of Data Analytics
+
+1. **Data Collection**:
+    - Utilize pre-existing datasets.
+    - Conduct surveys to gather primary data.
+    - Access third-party data sources.
+2. **Data Cleaning**:
+    - Remove missing values (e.g., NA values).
+    - Address errors, duplicates, and inconsistencies to ensure data quality.
+3. **Data Analysis**:
+    - Analyze cleaned data to uncover patterns and insights.
+4. **Storytelling**:
+    - Communicate findings effectively through reports, dashboards, and presentations to stakeholders.
+
+## Importance of Data Analysis
+
+Data analysis is critical for:
+
+- **Better Decision Making**: Informed choices based on data-driven insights.
+- **Identifying Opportunities**: Discovering trends and potential growth areas.
+- **Operational Efficiency**: Streamlining processes to reduce costs and improve performance.
+- **Competitive Advantage**: Gaining an edge in the market through informed strategies.
+
+### Business Insight
+
+Investing more than 5% of a business’s budget in marketing without proper data analysis may lead to inefficiencies and missed opportunities.
+
+## Career Scope for Data Analysts
+
+- **Entry Level**: Focus on basic data handling and reporting.
+- **Mid Level**: Involves advanced analysis and tool proficiency.
+- **Senior Level**: Strategic roles with decision-making responsibilities.
+- **Specializations**: Areas such as financial analytics, marketing analytics, or predictive modeling.
+
+## Introduction to Excel Interface
+
+Excel is a powerful tool for data analytics. Key components include:
+
+- **Ribbon**: The toolbar providing access to Excel’s features and functions.
+- **Formatting**: Techniques to enhance data presentation and readability.
+- **Matching Columns and Rows**: Aligning data for accurate analysis.
+
+## Progression to Advanced Excel
+
+- Advanced topics will cover complex functions, data visualization, and automation techniques to handle large datasets efficiently.
+
+## References
+
+<https://ostad.app/en/dashboard/my-courses/6862ef21474b908f90543eb6/recordings?play=68890340f33b9188a540f1c9>
+
+References
