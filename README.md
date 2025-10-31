@@ -1,17 +1,6 @@
----
-title: Understand, the Fundamental of Data Analytics.
-description: The 20% of datanalytics to do 80% of the tasks 😀
-date: September 3, 2025
-status: Child
-slug: /
-tags:
-  - Data Analysis
-  - Statistics
-  - Excel
----
-
 ## Introduction
-[[1.2-Introduction to Data Analytics|Data analytics]] can be overwhelming 😰 especially when you start your learning journey. There are immense amounts of video courses 📹, websites providing their own paths to teach you the ins and outs of data analytics 📊. But along the way you find other resources which feel even more better or the right path to choose 🤔. You become stuck in the learning zone 🔄. This is a very common scenario. If you want to learn from the industry expert 🎓 then this is your simple journey of learning data analytics the right way ✨. Only learning tools, functions and formulas that will do 80% of your work 💪. Then while you are learning you can pick up more tools, skills as you deem fit for your needs.
+
+Data analytics can be overwhelming 😰 especially when you start your learning journey. There are immense amounts of video courses 📹, websites providing their own paths to teach you the ins and outs of data analytics 📊. But along the way you find other resources which feel even more better or the right path to choose 🤔. You become stuck in the learning zone 🔄. This is a very common scenario. If you want to learn from the industry expert 🎓 then this is your simple journey of learning data analytics the right way ✨. Only learning tools, functions and formulas that will do 80% of your work 💪. Then while you are learning you can pick up more tools, skills as you deem fit for your needs.
 
 Happy learning!! 🚀
 
@@ -36,3 +25,4 @@ Happy learning!! 🚀
 | 8.2           | [[8.2-SQL Database Management]]                                     |
 | 8.3           | [[8.3-SQL Case Statement JOINs]]                                    |
 | 9.1           | [[9.1-Introduction to Power BI]]                                    |
+
