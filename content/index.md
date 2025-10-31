@@ -1,5 +1,6 @@
 ---
-title: Data Analytics Course Modules
+title: Understand, the Fundamental of Data Analytics.
+description: The 20% of datanalytics to do 80% of the tasks 😀
 date: September 3, 2025
 status: Child
 slug: /
@@ -9,24 +10,29 @@ tags:
   - Excel
 ---
 
+## Introduction
+[[1.2-Introduction to Data Analytics|Data analytics]] can be overwhelming 😰 especially when you start your learning journey. There are immense amounts of video courses 📹, websites providing their own paths to teach you the ins and outs of data analytics 📊. But along the way you find other resources which feel even more better or the right path to choose 🤔. You become stuck in the learning zone 🔄. This is a very common scenario. If you want to learn from the industry expert 🎓 then this is your simple journey of learning data analytics the right way ✨. Only learning tools, functions and formulas that will do 80% of your work 💪. Then while you are learning you can pick up more tools, skills as you deem fit for your needs.
 
-| Course Module | Title                                                                                                                                                                                                                                                                     |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.2           | [[1.2-Introduction to Data Analytics]]                                                                                                                                                                                                                                    |
-| 1.3           | [[1.3-Data Structure and Conditional Formatting]]                                                                                                                                                                                                                         |
-| 1.4           | [[1.4-Fill Handler & Data Manipulation Guide]]                                                                                                                                                                                                                            |
-| 2.1           | [[Logical Functions, FILTER, IF(), Using IF with AND/OR]]                                                                                                                                                                                                                 |
-| 2.2           | [[2.2-VLOOKUP, HLOOKUP & SUMIFS...]]                                                                                                                                                                                                                                      |
-| 2.3           | [[2.3-Advanced VLOOKUP and Filters Techniques]]                                                                                                                                                                                                                           |
-| 2.4           | [[2.4-What If and Data Preparation]]                                                                                                                                                                                                                                      |
-| 3.1           | [[3.1-Pivot Table Introduction and Data mapping]]                                                                                                                                                                                                                         |
-| 3.2           | Using Measure in PowerPivot, Preparing dashboard using PowerPivot, Using few DAX functions in PowerPivot                                                                                                                                                                  |
-| 4.1           | What Is Power Query, PowerQuery, Understanding table structure                                                                                                                                                                                                            |
-| 4.2           | Creating data model, Exploring PowerPivot                                                                                                                                                                                                                                 |
-| 5.1           | What Is Power Query \| Power Query \| Understanding table structure                                                                                                                                                                                                       |
-| 5.2           | Creating data model \| Exploring PowerPivot                                                                                                                                                                                                                               |
-| 6.1           | Business Dashboard: Using Power Query, Power Pivot, Web Scrapping data, DAX                                                                                                                                                                                               |
-| 6.2           | Business Dashboard: Using Power Query, Power Pivot, Web Scrapping data, DAX                                                                                                                                                                                               |
-| 8.1           | Understanding SQL and Data Models \| Basic SQL Syntax and Structure \| SELECT Statement: Retrieving Data from Tables \| Filtering Data with WHERE Clause \| Sorting Data with ORDER BY Clause                                                                             |
-| 8.2           | Introduction to SQL in Data Analytics \| SQL Queries for Data Extraction \| Working with Joins in SQL \| Aggregating Data for Dashboards \| Subqueries and Nested Queries                                                                                                 |
-| 9.1           | Overview of Power BI and its ecosystem \| Installing and setting up Power BI Desktop \| Power BI interface basics: panes, ribbons, and views \| Overview of data sources compatible with Power BI \| Hands-on Activity: Connecting to a simple dataset and importing data |
+Happy learning!! 🚀
+
+| Course Module | Title                                                               |
+| ------------- | ------------------------------------------------------------------- |
+| 1.2           | [[1.2-Introduction to Data Analytics]]                              |
+| 1.3           | [[1.3-Data Structure and Conditional Formatting]]                   |
+| 1.4           | [[1.4-Fill Handler & Data Manipulation Guide]]                      |
+| 2.1           | [[2.1-Formula and Function]]                                        |
+| 2.2           | [[2.2-VLOOKUP, HLOOKUP & SUMIFS...]]                                |
+| 2.3           | [[2.3-Advanced VLOOKUP and Filters Techniques]]                     |
+| 2.4           | [[2.4-What If and Data Preparation]]                                |
+| 3.1           | [[3.1-Pivot Table Introduction and Data mapping]]                   |
+| 3.2           | [[3.2-Pivot Table Analysis Creation, Formatting, What If Analysis]] |
+| 4.1           | [[4.1-Power Pivot & Power BI, Understanding Table Structure]]       |
+| 4.2           | [[4.2-Power Pivot, Using few DAX functions]]                        |
+| 5.1           | [[5.1-Power Query Introduction]]                                    |
+| 5.2           | [[5.2-Power Query-Creating data model]]                             |
+| 6.1           | [[6.1-DashBoard Creation with Power Pivot, Power Query and DAX]]    |
+| 6.2           | [[6.2-Dashboard Creation and Discussion]]                           |
+| 8.1           | [[8.1-SQL Basic Query]]                                             |
+| 8.2           | [[8.2-SQL Database Management]]                                     |
+| 8.3           | [[8.3-SQL Case Statement JOINs]]                                    |
+| 9.1           | [[9.1-Introduction to Power BI]]                                    |
