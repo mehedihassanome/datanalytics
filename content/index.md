@@ -2,6 +2,7 @@
 title: Understand, the Fundamental of Data Analytics.
 description: The 20% of datanalytics to do 80% of the tasks ??�
 date: September 3, 2025
+socialImage: images/card.png
 status: Child
 slug: /
 tags:
