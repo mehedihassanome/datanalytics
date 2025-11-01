@@ -1,21 +1,25 @@
 ---
 title: Understand, the Fundamental of Data Analytics.
-description: The 20% of datanalytics to do 80% of the tasks ??€
+description: The 20% of datanalytics to do 80% of the tasks ??ï¿½
 date: September 3, 2025
 status: Child
 slug: /
-socialImage: images\index_theme.png
 tags:
-  - Data Analysis
-  - Statistics
   - Excel
+  - PowerQuery
+  - PowerPivot
+  - PowerBI
+  - SQL
+  - MySql
+  - DataAnalysis
+  - DataModeling
+  - Dashboard
+  - Presentation
 ---
 
 ## Introduction
 
-[[1.2-Introduction to Data Analytics|Data analytics]] can be overwhelming ?˜° especially when you start your learning journey. There are immense amounts of video courses ?“¹, websites providing their own paths to teach you the ins and outs of data analytics ?“Š. But along the way you find other resources which feel even more better or the right path to choose ?¤?. You become stuck in the learning zone ?”„. This is a very common scenario. If you want to learn from the industry expert ?Ž“ then this is your simple journey of learning data analytics the right way âœ¨. Only learning tools, functions and formulas that will do 80% of your work ?’ª. Then while you are working in your profession you can pick up more tools, skills as you deem fit for your needs.
-
-Happy learning!! ?š€
+Data analytics can be overwhelming ðŸ˜° especially when you start your learning journey. There are immense amounts of video courses ðŸ“¹, websites providing their own paths to teach you the ins and outs of data analytics ðŸ“Š. But along the way you find other resources which feel even more better or the right path to choose ðŸ¤”. You become stuck in the learning zone ðŸ”„. This is a very common scenario. If you want to learn from the industry expert ðŸŽ“ then this is your simple journey of learning data analytics the right way âœ¨. Only learning tools, functions and formulas that will do 80% of your work ðŸ’ª. Then while working as a professional you can pick up more tools, skills as you deem fit for your needs ðŸš€.
 
 | Course Module | Title                                                               |
 | ------------- | ------------------------------------------------------------------- |
