@@ -4,6 +4,7 @@ description: The 20% of datanalytics to do 80% of the tasks ??€
 date: September 3, 2025
 status: Child
 slug: /
+socialImage: images\index_theme.png
 tags:
   - Data Analysis
   - Statistics
